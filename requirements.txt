@@ -7,3 +7,4 @@ scipy
 statsmodels
 XlsxWriter
 rasterio
+matplotlib
