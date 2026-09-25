@@ -4,5 +4,6 @@ numpy
 plotly
 scikit-learn
 scipy
+statsmodels
 XlsxWriter
 rasterio
